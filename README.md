@@ -108,5 +108,3 @@ Wenn du Fragen oder Anmerkungen hast, eröffne bitte ein Issue auf GitHub.
 Vielen Dank für deinen Beitrag zur Verbesserung des SVWS-Servers!
 
 > Änderung über iPhone mit Working Copy am 4. Juni 2025
-
-> Änderung über iPhone mit Working Copy am 4. Juni 2025 Nochmal
